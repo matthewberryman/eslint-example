@@ -4,6 +4,7 @@
   "description": "Example of ESLint being used in a package",
   "main": "index.js",
   "author": "Seb Bacanu <seb@bacanu.com>",
+  "repository": "https://github.com/Eseb/eslint-example",
   "license": "MIT",
   "scripts": {
     "lint": "eslint ."
